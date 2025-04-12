@@ -34,6 +34,7 @@ Projects applying `browser-use` principles to solve problems in a specific domai
 
 *   [SDET-GENIE](https://github.com/WaiGenie/SDET-GENIE) - An AI-powered QA automation framework leveraging `browser-use` to transform user stories directly into executable test automation code. 
 *   [SpiderCreator](https://github.com/carlosplanchon/spidercreator) - Automated web scraping spider generation using Browser Use and LLMs.
+*   [web-eval-agent](https://github.com/Operative-Sh/web-eval-agent) - An AI-powered MCP agent from [operative.sh](https://operative.sh/) that performs automated UX/UI testing and provides detailed analysis of web apps.
 
 ## Integrations & Ease of Use
 
