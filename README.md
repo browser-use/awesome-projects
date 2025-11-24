@@ -17,7 +17,7 @@ A curated list of awesome open-source projects built on or inspired by [browser-
 
 These projects leverage `browser-use` or similar browser automation techniques as part of a larger AI agent system designed for general task completion or analysis.
 
-*   [OpenManus](https://github.com/mannaandpoem/OpenManus) - An open-source multi-agent system inspired by Manus, designed to accomplish complex tasks using tools and browser interaction. 
+*   [OpenManus](https://github.com/FoundationAgents/OpenManus) - An open-source multi-agent system inspired by Manus, designed to accomplish complex tasks using tools and browser interaction. 
 *   [Agent-tars](https://github.com/bytedance/UI-TARS-desktop/tree/main/apps/agent-tars) - A multimodal AI agent that visually interprets web pages to perform browser operations and integrates with system commands. 
 *   [nanobrowser](https://github.com/nanobrowser/nanobrowser) - A multi-agent system running locally in the browser for real-time analysis, featuring self-correction and dynamic navigation instructions. 
 
