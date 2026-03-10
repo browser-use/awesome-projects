@@ -19,7 +19,8 @@ These projects leverage `browser-use` or similar browser automation techniques a
 
 *   [OpenManus](https://github.com/mannaandpoem/OpenManus) - An open-source multi-agent system inspired by Manus, designed to accomplish complex tasks using tools and browser interaction. 
 *   [Agent-tars](https://github.com/bytedance/UI-TARS-desktop/tree/main/apps/agent-tars) - A multimodal AI agent that visually interprets web pages to perform browser operations and integrates with system commands. 
-*   [nanobrowser](https://github.com/nanobrowser/nanobrowser) - A multi-agent system running locally in the browser for real-time analysis, featuring self-correction and dynamic navigation instructions. 
+*   [nanobrowser](https://github.com/nanobrowser/nanobrowser) - A multi-agent system running locally in the browser for real-time analysis, featuring self-correction and dynamic navigation instructions.
+*   [Lumen](https://github.com/omxyz/lumen) - A vision-first browser agent with self-healing deterministic replay over CDP. Screenshot → model → action loop with multi-provider support (Anthropic, Google).
 
 ## Server Implementations & Protocol Integration
 
