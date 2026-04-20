@@ -41,6 +41,7 @@ Projects applying `browser-use` principles to solve problems in a specific domai
 
 Projects focused on simplifying the use of `browser-use` by providing wrappers, APIs, or extensions.
 
-*   [A5-Browser-Use](https://github.com/AgenticA5/A5-Browser-Use/) - An all-in-one solution integrating `browser-use` with a user-friendly RESTful API and Chrome extension for simplified agentic browser automation. 
+*   [A5-Browser-Use](https://github.com/AgenticA5/A5-Browser-Use/) - An all-in-one solution integrating `browser-use` with a user-friendly RESTful API and Chrome extension for simplified agentic browser automation.
+*   [Human Pages](https://github.com/human-pages-ai/humanpages) - When browser automation hits a wall (CAPTCHA, identity verification, physical tasks), delegate to a real human via the Human Pages MCP server. 36 tools for searching, hiring, and paying humans in USDC. 
 
 *Contributions welcome! Feel free to open an issue or pull request to add more projects.*
