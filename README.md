@@ -42,5 +42,6 @@ Projects applying `browser-use` principles to solve problems in a specific domai
 Projects focused on simplifying the use of `browser-use` by providing wrappers, APIs, or extensions.
 
 *   [A5-Browser-Use](https://github.com/AgenticA5/A5-Browser-Use/) - An all-in-one solution integrating `browser-use` with a user-friendly RESTful API and Chrome extension for simplified agentic browser automation. 
+*   [Browser Use Box](https://github.com/browser-use/bux) - A 24/7 Claude Code agent on a Linux box with Telegram control and a persistent Browser Use Cloud browser. [Watch the demo](https://www.tiktok.com/@browser_use/video/7639824093721758989).
 
 *Contributions welcome! Feel free to open an issue or pull request to add more projects.*
