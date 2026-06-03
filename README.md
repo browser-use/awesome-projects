@@ -41,6 +41,7 @@ Projects applying `browser-use` principles to solve problems in a specific domai
 
 Projects focused on simplifying the use of `browser-use` by providing wrappers, APIs, or extensions.
 
-*   [A5-Browser-Use](https://github.com/AgenticA5/A5-Browser-Use/) - An all-in-one solution integrating `browser-use` with a user-friendly RESTful API and Chrome extension for simplified agentic browser automation. 
+*   [A5-Browser-Use](https://github.com/AgenticA5/A5-Browser-Use/) - An all-in-one solution integrating `browser-use` with a user-friendly RESTful API and Chrome extension for simplified agentic browser automation.
+*   [Agent Browser Shield](https://github.com/pixiebrix/agent-browser-shield) - A free, source-available browser extension that sits between browser-use and the web, blocking prompt injection, masking PII, and stripping page noise to improve agent accuracy and reduce token costs.
 
 *Contributions welcome! Feel free to open an issue or pull request to add more projects.*
